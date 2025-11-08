@@ -1,7 +1,7 @@
 # 🎮 **Flappy Bird Game Clone** 🐦
 
 <div align="center">
-
+ 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0%2B-green?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
