@@ -14,7 +14,7 @@
 
 [Demo](#-demo) • [Features](#-features) • [Installation](#-getting-started) • [Contributing](#-contributing)
 
-</div>
+</div> 
 
 ---
 
